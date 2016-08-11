@@ -11,6 +11,7 @@
 		6554A00F1D5A001A000FD55A /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6554A00B1D5A001A000FD55A /* Note.swift */; };
 		6554A0101D5A001A000FD55A /* Notebook+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6554A00C1D5A001A000FD55A /* Notebook+CoreDataProperties.swift */; };
 		6554A0111D5A001A000FD55A /* Notebook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6554A00D1D5A001A000FD55A /* Notebook.swift */; };
+		6554A0141D5BBB7D000FD55A /* NotebookTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6554A0131D5BBB7D000FD55A /* NotebookTableViewController.swift */; };
 		657C21EA1D58965F002DCCB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C21E91D58965F002DCCB2 /* AppDelegate.swift */; };
 		657C21EC1D58965F002DCCB2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C21EB1D58965F002DCCB2 /* ViewController.swift */; };
 		657C21EF1D58965F002DCCB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 657C21ED1D58965F002DCCB2 /* Main.storyboard */; };
@@ -44,6 +45,7 @@
 		6554A00B1D5A001A000FD55A /* Note.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
 		6554A00C1D5A001A000FD55A /* Notebook+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Notebook+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		6554A00D1D5A001A000FD55A /* Notebook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Notebook.swift; sourceTree = "<group>"; };
+		6554A0131D5BBB7D000FD55A /* NotebookTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotebookTableViewController.swift; sourceTree = "<group>"; };
 		657C21E61D58965F002DCCB2 /* UsingICloudNote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UsingICloudNote.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		657C21E91D58965F002DCCB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		657C21EB1D58965F002DCCB2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 				657C221A1D5896AD002DCCB2 /* UsingICloudNote.entitlements */,
 				657C221B1D5897AF002DCCB2 /* CoreDataHelper.swift */,
 				657C21E91D58965F002DCCB2 /* AppDelegate.swift */,
+				6554A0131D5BBB7D000FD55A /* NotebookTableViewController.swift */,
 				657C21EB1D58965F002DCCB2 /* ViewController.swift */,
 				657C21ED1D58965F002DCCB2 /* Main.storyboard */,
 				657C21F31D58965F002DCCB2 /* Assets.xcassets */,
@@ -294,6 +297,7 @@
 				657C21EC1D58965F002DCCB2 /* ViewController.swift in Sources */,
 				657C21F21D58965F002DCCB2 /* UsingICloudNote.xcdatamodeld in Sources */,
 				6554A0111D5A001A000FD55A /* Notebook.swift in Sources */,
+				6554A0141D5BBB7D000FD55A /* NotebookTableViewController.swift in Sources */,
 				657C221C1D5897AF002DCCB2 /* CoreDataHelper.swift in Sources */,
 				657C21EA1D58965F002DCCB2 /* AppDelegate.swift in Sources */,
 				6554A0101D5A001A000FD55A /* Notebook+CoreDataProperties.swift in Sources */,
